@@ -1,12 +1,12 @@
-# Python project template with [marimo](https://marimo.io) notebooks + [uv](https://github.com/astral-sh/uv) package manager
+## Python project template with [marimo](https://marimo.io) notebooks + [uv](https://github.com/astral-sh/uv) package manager
 
-> Customized inspired from [marimo-team/marimo-uv-starter-template](https://github.com/marimo-team/marimo-uv-starter-template) and [marimo-team/marimo-gh-pages-template](https://github.com/marimo-team/marimo-gh-pages-template)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-A starter template for [marimo](https://marimo.io) notebooks using [uv](https://github.com/astral-sh/uv) for dependency and project management and with CI set up for notebooks deployement using marimo WebAssembly on GitHub pages. 
+> A starter template for [marimo](https://marimo.io) notebooks using [uv](https://github.com/astral-sh/uv) for dependency and project management and with CI set up for notebooks deployement using marimo WebAssembly on GitHub pages. 
+> Inspired from [marimo-team/marimo-uv-starter-template](https://github.com/marimo-team/marimo-uv-starter-template) and [marimo-team/marimo-gh-pages-template](https://github.com/marimo-team/marimo-gh-pages-template)
 
 ## Features
 
@@ -25,9 +25,9 @@ A starter template for [marimo](https://marimo.io) notebooks using [uv](https://
 
 
 1. Install the dependencies
-```shell
-uv pip install .
-```
+    ```shell
+    uv pip install .
+    ```
 2. Run the marimo editor:
 
    ```bash
