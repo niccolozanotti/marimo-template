@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Apple Desktop Service Store
+*.DS_Store
+
+# IDE
+!.vscode/
+
+# Deployment folder for marimo notebooks
+_site/
